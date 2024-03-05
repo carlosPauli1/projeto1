@@ -1,0 +1,57 @@
+/* FONTES */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+    color: aqua;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    margin: 5px 10px;
+}
+
+p {
+    color: azure;
+}
+
+.container {
+    margin: 5px auto;
+    width: 600px;
+}
+
+.container__img {
+    margin: 5px auto;
+    width: 600px;
+    text-align: center;
+}
+.rodape {
+    background-color: blue;
+    color: azure;
+    text-align: center;
+    margin: 10px;
+    font-family: "Oswald", sans-serif;
+}
+
+.links {
+    text-align: center;
+    margin: 5px auto;
+}
+
+.imagens_links {
+    width: 100px;
+    height: 100px;
+}
+a {
+    color: azure;
+}
+
